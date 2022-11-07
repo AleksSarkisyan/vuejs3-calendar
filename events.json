@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "startTime": 0,
+      "endTime": 250
+    },
+    {
+      "startTime": 0,
+      "endTime": 375
+    },
+    {
+      "startTime": 30,
+      "endTime": 45
+    },
+    {
+      "startTime": 40,
+      "endTime": 55
+    },
+    {
+      "startTime": 120,
+      "endTime": 160
+    },
+    {
+      "startTime": 180,
+      "endTime": 300
+    },
+    {
+      "startTime": 180,
+      "endTime": 370
+    },
+    {
+      "startTime": 190,
+      "endTime": 280
+    },
+    {
+      "startTime": 190,
+      "endTime": 280
+    },
+    {
+      "startTime": 180,
+      "endTime": 300
+    },
+    {
+      "startTime": 180,
+      "endTime": 370
+    },
+    {
+      "startTime": 190,
+      "endTime": 280
+    },
+    {
+      "startTime": 190,
+      "endTime": 280
+    },
+    {
+      "startTime": 180,
+      "endTime": 300
+    },
+    {
+      "startTime": 180,
+      "endTime": 370
+    },
+    {
+      "startTime": 190,
+      "endTime": 280
+    },
+    {
+      "startTime": 190,
+      "endTime": 280
+    },
+    {
+      "startTime": 220,
+      "endTime": 320
+    },
+    {
+      "startTime": 420,
+      "endTime": 500
+    },
+    {
+      "startTime": 600,
+      "endTime": 780
+    }
+  ]
+}

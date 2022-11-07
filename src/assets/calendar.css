@@ -1,0 +1,48 @@
+.calendar {
+    display: flex;
+    flex-direction: column;
+    height: 840px;
+}
+
+.calendar .hour-item {
+    display: flex;
+    width: 720px;
+    position: relative;
+}
+
+.calendar .events {
+    width: 720px;
+    height: 60px;
+    display: flex;
+    border-left: 1px solid gray;
+    padding: 0px 10px;
+    background-color: #f7f7f7;
+}
+
+.calendar .hour-item .time {
+    width: 50px;
+    text-align: right;
+    position: relative;
+    bottom: 12px;
+    right: 15px;
+    color: gray;
+    font-weight: 400;
+}
+
+.calendar .hour-item .separator {
+    position: absolute;
+    right: 0px;
+    border-bottom: 1px dashed lightgray;
+    width: 95%;
+    z-index: 2;
+}
+
+.calendar .hour-item .separator.first {
+    border-top: 1px solid lightgray;
+    border-bottom: none;
+}
+
+.calendar .hour-item .events.last {
+    display: none;
+    border-left: none;
+}
